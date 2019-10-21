@@ -12,7 +12,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 I changed the chat bot name, I updated the age calculation to be more accurate, and I changed the sign off.
 
 ## Record someone trying out your ChatBot
-[Video Here] (
+[Video Here] (https://github.com/sas695/IDD-Fa19-Lab6/blob/master/IMG_2780.mov)
 
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
